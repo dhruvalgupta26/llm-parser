@@ -1,0 +1,9 @@
+langchain-community
+llama-index
+llama-parse
+langchain-huggingface
+langchain-text-splitters
+langchain-groq
+langchain-core
+pypdf
+faiss-cpu
